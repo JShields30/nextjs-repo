@@ -13,6 +13,18 @@ export default class MyDocument extends Document {
 					<link rel='stylesheet' href='https://use.typekit.net/cub6off.css' />
 					<link rel='stylesheet' href='https://use.typekit.net/hzg4mdi.css' />
 					<link rel='stylesheet' href='https://use.typekit.net/lxd3fak.css' />
+					<link
+						rel='stylesheet'
+						href='https://fonts.googleapis.com/css2?family=Barlow%20Condensed&family=Barlow%20Semi%20Condensed&display=swap'
+					/>
+					<link
+						rel='stylesheet'
+						href='https://fonts.googleapis.com/css2?family=Montserrat&display=swap'
+					/>
+					<link
+						rel='stylesheet'
+						href='https://fonts.googleapis.com/css2?family=Playfair%20Display:wght@500&display=swap'
+					/>
 				</Head>
 				<body className='block'>
 					<Main />
